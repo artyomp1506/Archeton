@@ -1,0 +1,4 @@
+#Wed Jun 16 10:23:54 YEKT 2021
+base.0=E\:\\Archeton\\Archeton\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
